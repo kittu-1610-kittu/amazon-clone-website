@@ -6,12 +6,6 @@ myamazon is a clone of the popular e-commerce platform Amazon. It is built using
 
 ---
 
-## Preview
-
-![myamazon Preview](https://github.com/kittu-1610-kittu/amazon-clone-website.git)
-
-## Features
-
 - Responsive design
 - HTML and CSS only
 - Similar styling to Amazon
