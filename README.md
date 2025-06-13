@@ -1,7 +1,6 @@
 # myamazon - Amazon-Clone-website
 
 ---
-<img src="https://github.com/kittu-1610-kittu/amazon-clone-website.git" height="50px" align="left">
 myamazon is a clone of the popular e-commerce platform Amazon. It is built using HTML and CSS to replicate the style of the original webpage. The project is designed to be fully responsive.
 
 ---
